@@ -1,15 +1,14 @@
 {
-  "name": "font-awesome-loader",
-  "version": "1.0.2",
+  "name": "font-awesome-npm-loader",
+  "version": "1.0.0",
   "description": "font-awesome package for webpack using sass",
   "main": "index.js",
-  "loader": "index.loader.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shakacode/font-awesome-loader.git"
+    "url": "https://github.com/PiotrSiatkowski/font-awesome-npm-loader.git"
   },
   "keywords": [
     "font-awesome",
@@ -20,16 +19,24 @@
     "name": "Justin Gordon",
     "url": "http://www.shakacode.com"
   },
+  "contributors": [
+    {
+      "name": "Piotr Siatkowski",
+      "email": "siatkowski.p@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shakacode/font-awesome-loader/issues"
+    "url": "https://github.com/PiotrSiatkowski/font-awesome-npm-loader/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "loader-utils": "^1.1.0"
+  },
   "peerDependencies": {
     "font-awesome": "*",
     "css-loader": "*",
     "sass-loader": "*",
     "style-loader": "*"
   },
-  "homepage": "https://github.com/shakacode/font-awesome-loader"
+  "homepage": "https://github.com/PiotrSiatkowski/font-awesome-npm-loader"
 }

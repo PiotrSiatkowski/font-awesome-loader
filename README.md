@@ -6,6 +6,8 @@ Font awesome configuration and loading package for webpack, using font-awesome (
 
 ## Usage
 
+In your project use: import './font-awesome/font-awesome.config';
+
 -----
 
 * [Webpack 1](/docs/usage-webpack1.md)
