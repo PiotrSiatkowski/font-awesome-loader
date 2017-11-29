@@ -12,7 +12,7 @@ const styles = [
     'bordered-pulled',
     'animated',
     'rotated-flipped',
-    'stacked'
+    'stacked',
     'icons',
     'screen-reader'
 ];
