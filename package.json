@@ -30,13 +30,10 @@
     "url": "https://github.com/PiotrSiatkowski/font-awesome-loader/issues"
   },
   "dependencies": {
-    "loader-utils": "^1.1.0"
+    "loader-utils": "1.1.0"
   },
   "peerDependencies": {
-    "font-awesome": "*",
-    "css-loader": "*",
-    "sass-loader": "*",
-    "style-loader": "*"
+    "font-awesome": "*"
   },
   "homepage": "https://github.com/PiotrSiatkowski/font-awesome-loader"
 }

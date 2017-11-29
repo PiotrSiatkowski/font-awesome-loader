@@ -1,15 +1,18 @@
+// Use this configuration file in your project. By default all font awesome modules are available.
 module.exports = {
-  styles: {
-    'mixins': true,
-    'bordered-pulled': true,
-    'core': true,
-    'fixed-width': true,
-    'icons': true,
-    'larger': true,
-    'list': true,
-    'path': true,
-    'rotated-flipped': true,
-    'animated': true,
-    'stacked': true
-  }
+    styles: {
+        'variables': true,
+        'mixins': true,
+        'path': true,
+        'core': true,
+        'larger': true,
+        'fixed-width': true,
+        'list': true,
+        'bordered-pulled': true,
+        'animated': true,
+        'rotated-flipped': true,
+        'stacked': true,
+        'icons': true,
+        'screen-reader': true
+    }
 };
